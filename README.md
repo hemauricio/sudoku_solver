@@ -2,4 +2,4 @@
 
 Sudoku Solver
 
-cat test/input.txt | python src/main.py
+`cat test/input.txt | python src/main.py`
